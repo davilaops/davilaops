@@ -5,6 +5,8 @@
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+<img align="center" alt="Rafa-React" height="30" width="40" src="<img width="1200" height="1068" alt="image" src="https://github.com/user-attachments/assets/54922d26-fd7c-4740-9dbf-66030ef45dd4" />
+"> 
 </div>
   
   ##
